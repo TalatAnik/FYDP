@@ -1,6 +1,0 @@
-Abstract:
-          By using Deep Learning, this paper is all about testing a vehicle with the help of machine. Commercial or not, every single vehicle must periodically 
-	  endure fitness test in accordance with the Road Transport Act, 2018 section 124(1)(th), based on the age of the vehicle. All vehicles must be presented
-	  to fitness facilities for inspection and certification. Additionally, there are very few centres in each district, so it is obvious to face a huge queue
-	  and hassels to get the service. Specially, in regional offices, there are only one mechanic to supervise whereas the 54 central offices ran under BRTA 
-	  provides at most 4-5 mechanic.
